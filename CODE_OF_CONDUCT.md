@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="350" alt="Nekomide code of conduct" src="./img/code_of_conduct.png">
+  <img height="350" alt="Nekomide Code of Conduct" src="./img/code_of_conduct.png">
 </div>
 
 Nekomide is a project that is safe and welcoming for all. We respect of the contributions, dignity, and rights of all other individuals, regardless of characteristics such as age, appearance, caste, color, disabilities, ethnicity, gender identity or expression, language, level of education, national or social origin, philosophy, physical characteristics, race, religion, sex, sexual orientation, socio-economic status, or other characteristic.
@@ -12,7 +12,7 @@ As members of the Nekomide community, we agree to behave respecfully to other pe
 - Taking responsibility for actions.
 
 ## Restricted behavior
-Instances, threats, and promotion of these activities and/or behaviors are violations of this code of conduct.
+Instances, threats, and promotion of these activities and/or behaviors are violations of this Code of Conduct.
 - **Attacking**: Making demeaning, insulting, or pejorative comments about a community member or group.
 - **Discrimination**: Characterizing anyone's personality or behavior on the basis of immutable characteristics.
 - **Endangerment**: Causing violence or harm against a person or group.
@@ -23,12 +23,12 @@ Instances, threats, and promotion of these activities and/or behaviors are viola
 - **Sexualization**: Behaving in a way generally considered inappropriately intimate in a community context.
 
 ## Reporting
-When a violation of this code of conduct is made, it should be reported to a maintainer of Nekomide via email ([contact@raynec.dev](mailto:contact@raynec.dev)).
+When a violation of this Code of Conduct is made, it should be reported to a maintainer of Nekomide via email ([contact@raynec.dev](mailto:contact@raynec.dev)).
 
-Community moderators take reports of violations seriously and will make every effort to respond in a timely manner. They will investigate all reports of code of conduct violations, reviewing messages, logs, and recordings, or interviewing witnesses and other participants. Community moderators will keep investigation and enforcement actions as transparent as possible while prioritizing safety and confidentiality. In order to honor these values, enforcement actions are carried out in private with the involved parties, but communicating to the whole community may be part of a mutually agreed upon resolution.
+Community moderators take reports of violations seriously and will make every effort to respond in a timely manner. They will investigate all reports of Code of Conduct violations, reviewing messages, logs, and recordings, or interviewing witnesses and other participants. Community moderators will keep investigation and enforcement actions as transparent as possible while prioritizing safety and confidentiality. In order to honor these values, enforcement actions are carried out in private with the involved parties, but communicating to the whole community may be part of a mutually agreed upon resolution.
 
 ## Enforcement
-If an investigation by the community moderators finds that this code of conduct has been violated, the following enforcement ladder may be used to determine how best to repair harm, based on the incident's impact on the individuals involved and the community as a whole. Depending on the severity of a violation, lower rungs on the ladder may be skipped.
+If an investigation by the community moderators finds that this Code of Conduct has been violated, the following enforcement ladder may be used to determine how best to repair harm, based on the incident's impact on the individuals involved and the community as a whole. Depending on the severity of a violation, lower rungs on the ladder may be skipped.
 
 ### 1. Correction
 
@@ -55,4 +55,4 @@ If an investigation by the community moderators finds that this code of conduct 
 **Consequence**: A permanent ban from any sort of public interaction within the community.
 
 ## Attribution
-This code of conduct is adapted from the Contributor Covenant, available at https://www.contributor-covenant.org/version/3/0/code_of_conduct.
+This Code of Conduct is adapted from the Contributor Covenant, available at https://www.contributor-covenant.org/version/3/0/code_of_conduct.
