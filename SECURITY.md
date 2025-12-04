@@ -1,5 +1,5 @@
 # Vulnerability reporting
-Please report security vulnerabilities to [security@raynec.dev](mailto:security@raynec.dev). Do not use GitHub's public issue tracker.
+Please report security vulnerabilities to [security@rayne.page](mailto:security@rayne.page). Do not use GitHub's public issue tracker.
 
 Security is an important aspect in the development of Nekomide, and it is greatly appreciated that you are taking the time to report a security vulnerability responsibly.
 
