@@ -23,7 +23,7 @@ Instances, threats, and promotion of these activities and/or behaviors are viola
 - **Sexualization**: Behaving in a way generally considered inappropriately intimate in a community context.
 
 ## Reporting
-When a violation of this Code of Conduct is made, it should be reported to a maintainer of Nekomide via email ([contact@raynec.dev](mailto:contact@raynec.dev)).
+When a violation of this Code of Conduct is made, it should be reported to a maintainer of Nekomide via email ([contact@rayne.page](mailto:contact@rayne.page)).
 
 Community moderators take reports of violations seriously and will make every effort to respond in a timely manner. They will investigate all reports of Code of Conduct violations, reviewing messages, logs, and recordings, or interviewing witnesses and other participants. Community moderators will keep investigation and enforcement actions as transparent as possible while prioritizing safety and confidentiality. In order to honor these values, enforcement actions are carried out in private with the involved parties, but communicating to the whole community may be part of a mutually agreed upon resolution.
 
