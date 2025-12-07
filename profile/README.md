@@ -7,3 +7,8 @@ Nekomide is developed, directed, and maintained by [Rayne D](https://github.com/
 
 ### Open positions
 If you can write a language other than English, consider [contacting a maintainer](https://rayne.page/contact) to become a translator for Nekomide.
+
+## Contributing
+Contributions are encouraged from all individuals who comply with the [Nekomide Code of Conduct](../CODE_OF_CONDUCT.md).
+
+For security concerns, refer to Nekomide's [security policy](../SECURITY.md).
